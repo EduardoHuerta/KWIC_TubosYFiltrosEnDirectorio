@@ -6,19 +6,37 @@ import filters.Pipe;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashSet;
 
 public class LectorDelDirectorio extends Filter {
 
-    String file;
     String nombreDelArchivo;
-    ArrayList<String> salidas = new ArrayList<String>();
+    HashSet<String> salidas = new HashSet<String>();
 
-    public LectorDelDirectorio(String filtrolector, String nombre ,Pipe outputDelFiltroLector) {
-        super(null,outputDelFiltroLector);
-        file = filtrolector;
+    public LectorDelDirectorio(Pipe filtrolector, String nombre ,Pipe outputDelFiltroLector) {
+        super(filtrolector,outputDelFiltroLector);
         nombreDelArchivo = nombre;
     }
 
+    @Override
+    public void transform() {
+        try {
+            String[] rutas= input.read().trim().split("\n");
+            for (String ruta:rutas) {
+                File folderFile = new File(ruta);
+                if (folderFile.exists()) {
+                    File[] archivosEnCarpeta = folderFile.listFiles();
+                    obtenerDirectorio(archivosEnCarpeta);
+                }
+                for (String rutasEncontradas: salidas) {
+                    output.write(rutasEncontradas + "\n");
+                    System.out.println(rutasEncontradas);
+                }
+            }
+
+            output.closeWriter();
+        }catch (IOException e){ e.printStackTrace(); }
+    }
 
     private void obtenerDirectorio(File[] arregloDeArchivos) throws IOException {
         for (File archivo : arregloDeArchivos) {
@@ -31,22 +49,5 @@ public class LectorDelDirectorio extends Filter {
                 salidas.add(archivo.getAbsolutePath());
             }
         }
-    }
-
-    @Override
-    public void transform() {
-        try {
-
-            File folderFile = new File(file);
-            if (folderFile.exists()) {
-                File[] archivosEnCarpeta = folderFile.listFiles();
-                obtenerDirectorio(archivosEnCarpeta);
-            }
-            for (String rutasEncontradas: salidas) {
-                output.write(rutasEncontradas + "\n");
-                System.out.println(rutasEncontradas);
-            }
-            output.closeWriter();
-        }catch (IOException e){ e.printStackTrace(); }
     }
 }
