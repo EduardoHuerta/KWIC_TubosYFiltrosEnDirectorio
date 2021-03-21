@@ -1,6 +1,6 @@
 package filtros;
 
-/*Alumno: Eduardo Alfonso Huerta Mora
+/*Alumnos: Eduardo Alfonso Huerta Mora, Mario Alberto Roman y David Tejeda
  * Materia: Arquitectura de Software
  * Proyecto: KWIC Directorio
  * Docente: Dra. María Lucía Barrón Estrada*/
@@ -33,13 +33,13 @@ public class Main {
             System.out.println("Palabra a buscar: \""+nombre+"\"");
 
             Pipe out2Lector = new Pipe();
-            Pipe lectorToRuta = new Pipe();
-            Pipe rutaToOutput = new Pipe();
+            Pipe lectorToAlpha = new Pipe();
+            Pipe alphaToOutput = new Pipe();
 
             Filter input = new Input(ruta, out2Lector);
-            Filter in = new LectorDelDirectorio(out2Lector,nombre,lectorToRuta);
-            Filter alpha = new Alphabetizer(lectorToRuta, rutaToOutput);
-            Filter out = new Output(rutaToOutput);
+            Filter in = new LectorDelDirectorio(out2Lector,nombre,lectorToAlpha);
+            Filter alpha = new Alphabetizer(lectorToAlpha, alphaToOutput);
+            Filter out = new Output(alphaToOutput);
 
             input.start();
             in.start();
