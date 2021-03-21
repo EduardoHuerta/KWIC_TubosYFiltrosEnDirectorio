@@ -1,1 +1,151 @@
-C:\Users\eduar\Escritorio\Eduardo-MCC\pruebaruta\presentacion.txt.txt
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\EvaluacionDelDesempeño1erSemestre.pdf
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Ingeniería_de_Software\ProyectoVolBank\Sistema\AsociacionVoluntarios.java
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Ingeniería_de_Software\ProyectoVolBank\Sistema\Combinacion.java
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Ingeniería_de_Software\ProyectoVolBank\Sistema\OrganizacionVoluntarios.java
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\Maquetacion
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\Maquetacion-victorroblesweb.zip
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Introducción a la IA\web\Maquetacion
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\Matemáticas Discretas\Proyecto funcional en Python
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\TEC-Programacion
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\TEC-Programacion\EnlacesComunicacion
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\TEC-Programacion\EnlacesComunicacion\out\production\EnlacesComunicacion
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\TEC-Programacion\programacion
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\TEC-Programacion\programacion\EjerciciosRecursividad\Permutaciones_de_cadenas_de_n_letras
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\TEC-Programacion\programacion\EjerciciosRecursividad\Permutaciones_de_cadenas_de_n_letras\out\production\Permutaciones_de_cadenas_de_n_letras
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\TEC-Programacion\programacion\EjerciciosRecursividad\Permutaciones_de_cadenas_de_n_letras\out\production\Permutaciones_de_cadenas_de_n_letras\recursividad\PermutacionRecursiva.class
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\TEC-Programacion\programacion\out\production\programacion
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\TEC-Programacion\ProyectoFinalPOOYLambdas\out\production\ProyectoFinalPOOYLambdas\tecprogramacion
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\TEC-Programacion\ProyectoFinalPOOYLambdas\src\tecprogramacion
+C:\Users\eduar\Escritorio\Eduardo-MCC\1-Semestre\TEC-Programacion\TecnologiaProgramacion-master
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Arquitectura De Software\Implementacion del sistema KWIC
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Arquitectura_De_Software\3 Presentacion Decomposition-macklem.pdf
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Arquitectura_De_Software\costos evaluacion presentaciones.docx
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Arquitectura_De_Software\Exposicion QFD
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Arquitectura_De_Software\ExposicionIndividual
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Arquitectura_De_Software\ExposicionIndividual\exposiciones unidad 3 2020.pdf
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Arquitectura_De_Software\Glosario Estimacion de Costos MCC 2020.xlsx
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Arquitectura_De_Software\Glosario palabras\Glosario Estimacion de Costos MCC 2020.xlsx
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Arquitectura_De_Software\Glosario palabras\Glosario Estimacion de Costos.doc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Arquitectura_De_Software\Glosario-Definiciones.docx
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Arquitectura_De_Software\Glosario-Definiciones.pdf
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Arquitectura_De_Software\Proyecto 2da parte\U4-Huerta-Proyecto Exposicion.pptx
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Arquitectura_De_Software\tesis doctorado 2017 Modelo para estimacion del esfuerzo.pdf
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Formato_Evaluacion_Desempeno_Becario.dotx
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Formato_Evaluacion_Desempeno_Becario.pdf
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\factory\factory-EduardoHuerta\.git\logs\refs\heads\integracion-master
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\factory\factory-EduardoHuerta\.git\refs\heads\integracion-master
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\logs\refs\heads\feature\e1\funcionalidadCsv
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\logs\refs\heads\feature\e1\funcionalidadJsonCsv
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\logs\refs\heads\feature\e1\funcionalidadJsonYCsv
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\logs\refs\heads\feature\e1\funcionalidadTxt
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\logs\refs\heads\feature\e1\funcionalidadXml
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\logs\refs\heads\integracion-master
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\logs\refs\remotes\origin\feature\e1\funcionalidadCsv
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\logs\refs\remotes\origin\feature\e1\funcionalidadJsonCsv
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\logs\refs\remotes\origin\feature\e1\funcionalidadTxt
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\logs\refs\remotes\origin\feature\e1\funcionalidadXml
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\logs\refs\remotes\origin\integracion-master
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\refs\heads\feature\e1\funcionalidadCsv
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\refs\heads\feature\e1\funcionalidadJsonCsv
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\refs\heads\feature\e1\funcionalidadJsonYCsv
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\refs\heads\feature\e1\funcionalidadTxt
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\refs\heads\feature\e1\funcionalidadXml
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\refs\heads\integracion-master
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\refs\remotes\origin\feature\e1\funcionalidadCsv
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\refs\remotes\origin\feature\e1\funcionalidadJsonCsv
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\refs\remotes\origin\feature\e1\funcionalidadTxt
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\refs\remotes\origin\feature\e1\funcionalidadXml
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto4\PatronFactory\.git\refs\remotes\origin\integracion-master
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto5\PatronSingleton\.git\logs\refs\heads\singletoncorreccion
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto5\PatronSingleton\.git\logs\refs\remotes\origin\singletoncorreccion
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto5\PatronSingleton\.git\refs\heads\singletoncorreccion
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto5\PatronSingleton\.git\refs\remotes\origin\singletoncorreccion
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto6\Adapter-Eduardo\adaptador-EduardoHuerta\out\production\Adapter-Eduardo\motores\Aplicacion.class
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto6\Adapter-Eduardo\adaptador-EduardoHuerta\src\motores\Aplicacion.java
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto6\Adapter-Eduardo\Adaptador-EH\adaptador-EduardoHuerta\fuera\producción\Adaptador-Eduardo\adaptador\Aplicacion.class
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto6\Adapter-Eduardo\Adaptador-EH\adaptador-EduardoHuerta\src\motores\Aplicacion.java
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto6\Adapter-Eduardo\out\production\Adapter-Eduardo\motores\Aplicacion.class
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto6\Adapter-Eduardo\src\motores\Aplicacion.java
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto6\PatronAdaptador\adaptador-EduardoHuerta\src\Aplicacion.java
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto6\src\adapter\Aplicacion.java
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto7\template-method-EduardoHuerta\.git\logs\refs\remotes\origin\FuncionDiagnostico
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto7\template-method-EduardoHuerta\.git\refs\remotes\origin\FuncionDiagnostico
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto7\TemplateMethod-EduardoHuerta\.git\logs\refs\heads\FuncionDiagnostico
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto7\TemplateMethod-EduardoHuerta\.git\logs\refs\remotes\origin\FuncionDiagnostico
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto7\TemplateMethod-EduardoHuerta\.git\refs\heads\FuncionDiagnostico
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\MOO\Proyecto7\TemplateMethod-EduardoHuerta\.git\refs\remotes\origin\FuncionDiagnostico
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CancerClassificacion
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\ClasificarImagenes\Eduardo_ClasificadorCNN\CNN desde cero\data\validacion
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\RedNC\dataset\prediccion
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\CNN\RedNC\dataset\prediccion.rar
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\Hibrido\hibrido\aplicaciones_clientes_tarjetas_credito.csv
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\Inteligencia-Artificial-master\Arboles de Decision\Clasificacion
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\Inteligencia-Artificial-master\Logica-Borrosa\ControlDeVozCon4Emociones.ipynb
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\Inteligencia-Artificial-master\MicroRedes\ListaDeColaboraciones.md
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\MapasAutoOrganizados\mao\aplicaciones_clientes_tarjetas_credito.csv
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\numpy\testing\__pycache__\print_coercion_tables.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\numpy\testing\print_coercion_tables.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\indexing\__pycache__\test_coercion.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pandas\tests\indexing\test_coercion.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA\venv\Lib\site-packages\pytz\zoneinfo\America\Asuncion
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\ReconocimientoDePatrones\RNA_PT\Red_ClasiicacionHeart.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionColores.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\.idea\DeteccionDeObjetos.iml
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\DeteccionDeRostros.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\DeteccionMultiplesObjetos.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\DeteccionObjetos.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\numpy\testing\__pycache__\print_coercion_tables.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\DeteccionDeObjetos\venv\Lib\site-packages\numpy\testing\print_coercion_tables.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\DeteccionDelColorVerde.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\DeteccionDeObjetos.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\DeteccionDeRostros.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\numpy\testing\__pycache__\print_coercion_tables.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Ejercicios generales\PycharmProjects\untitled\venv\Lib\site-packages\numpy\testing\print_coercion_tables.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\DeteccionDePeatones.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\numpy\testing\__pycache__\print_coercion_tables.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Nueva carpeta\venv\Lib\site-packages\numpy\testing\print_coercion_tables.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\SegmentacionDeImagenesRGB.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\.idea\Umbralizacion.iml
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\Umbralizacion.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\numpy\testing\__pycache__\print_coercion_tables.cpython-36.pyc
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Imagenes\Umbralizacion\venv\Lib\site-packages\numpy\testing\print_coercion_tables.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\matlab\Transformaciones_intensidad.m
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Tarea\convolucion2.rar
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Tarea\DeteccionColores.rar
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\Transformaciones.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\2-Semestre\Vision_Artificial\TransformacionesMorfologicas.py
+C:\Users\eduar\Escritorio\Eduardo-MCC\3-Semestre\ARSO2020\Exposiciones Unidad 1 Modelos Arquitectónicos
+C:\Users\eduar\Escritorio\Eduardo-MCC\3-Semestre\ARSO2020\Exposiciones Unidad 1 Modelos Arquitectónicos\Saul-Imperial\PresentacionKWIC.pptx
+C:\Users\eduar\Escritorio\Eduardo-MCC\3-Semestre\ARSO2020\Exposiciones Unidad 2 Costos
+C:\Users\eduar\Escritorio\Eduardo-MCC\3-Semestre\ARSO2020\Exposiciones unidad 4 Evaluación ARSO
+C:\Users\eduar\Escritorio\Eduardo-MCC\3-Semestre\ARSO2020\Unidad 1\presentacion ARQUITECTURA DE SOFTWARE ago-dic 2020.ppt
+C:\Users\eduar\Escritorio\Eduardo-MCC\3-Semestre\ARSO2020\Unidad 1\Unidad 1 Introduccion a las arquitecturas de software.pptx
+C:\Users\eduar\Escritorio\Eduardo-MCC\3-Semestre\Calificaciones_2doSemestre_EduardoHuerta (1).pdf
+C:\Users\eduar\Escritorio\Eduardo-MCC\3-Semestre\EDUARDO ALFONSO HUERTA MORA Calificaciones.pdf
+C:\Users\eduar\Escritorio\Eduardo-MCC\3-Semestre\Formato_Evaluacion_Desempeno_Becario_Eduardo_Huerta (1).pdf
+C:\Users\eduar\Escritorio\Eduardo-MCC\3-Semestre\Formato_Evaluacion_Desempeno_Becario_Eduardo_Huerta.docx
+C:\Users\eduar\Escritorio\Eduardo-MCC\3-Semestre\Formato_Evaluacion_Desempeno_Becario_Eduardo_Huerta.pdf
+C:\Users\eduar\Escritorio\Eduardo-MCC\4-Semestre\ArquitecturaDeSoftware\Unidad I\1 Garlan Shaw Introducion a las AS.pdf
+C:\Users\eduar\Escritorio\Eduardo-MCC\4-Semestre\ArquitecturaDeSoftware\Unidad I\1 Garlan Shaw Introducion a las AS.ppt
+C:\Users\eduar\Escritorio\Eduardo-MCC\4-Semestre\ArquitecturaDeSoftware\Unidad II\ExposicionDinoblock.txt
+C:\Users\eduar\Escritorio\Eduardo-MCC\4-Semestre\ArquitecturaDeSoftware\Unidad IV\Unidad 4 Evaluacion de arquitectura de software.ppt
+C:\Users\eduar\Escritorio\Eduardo-MCC\4-Semestre\Formato_Evaluacion_Desempeno_Becario.doc
+C:\Users\eduar\Escritorio\Eduardo-MCC\4-Semestre\Seminario III\deteccion_albahacaEnferma.jfif
+C:\Users\eduar\Escritorio\Eduardo-MCC\Congreso\Arquitectura de TL y prediccion.jpg
+C:\Users\eduar\Escritorio\Eduardo-MCC\Congreso\ClasificacionPlantas2016.pdf
+C:\Users\eduar\Escritorio\Eduardo-MCC\Congreso\deteccion_hoja_pepino.pdf
+C:\Users\eduar\Escritorio\Eduardo-MCC\Congreso\deteccion_hoja_pepino_2.pdf
+C:\Users\eduar\Escritorio\Eduardo-MCC\Congreso\TE-0027_EvaluacionFinal.docx
+C:\Users\eduar\Escritorio\Eduardo-MCC\Congreso\TE-0027_Trabajo_Correcciones.docx
+C:\Users\eduar\Escritorio\Eduardo-MCC\Congreso\TE-0027_Trabajo_Correcciones_20jun.docx
+C:\Users\eduar\Escritorio\Eduardo-MCC\Congreso\TE-0027_Trabajo_Correcciones_avanzadas.docx
+C:\Users\eduar\Escritorio\Eduardo-MCC\pruebaruta\presentacion.txt
+C:\Users\eduar\Escritorio\Eduardo-MCC\pruebaruta\presentacion.txt
+C:\Users\eduar\Escritorio\Eduardo-MCC\Reinscripcion3erSemestre.jpeg
+C:\Users\eduar\Escritorio\Eduardo-MCC\Tesis\Capitulos\introduccion.tex
+C:\Users\eduar\Escritorio\Eduardo-MCC\Tesis\Declaracion
+C:\Users\eduar\Escritorio\Eduardo-MCC\Tesis\Declaracion\Declaracion.tex
+C:\Users\eduar\Escritorio\Eduardo-MCC\Tesis\imagenes\Modelo deteccion
+C:\Users\eduar\Escritorio\Eduardo-MCC\Tesis\Prologo\declaracion.tex

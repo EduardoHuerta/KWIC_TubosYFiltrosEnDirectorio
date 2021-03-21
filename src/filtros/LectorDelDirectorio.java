@@ -6,11 +6,12 @@ import filters.Pipe;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashSet;
 
 public class LectorDelDirectorio extends Filter {
 
     String nombreDelArchivo;
-    ArrayList<String> salidas = new ArrayList<String>();
+    HashSet<String> salidas = new HashSet<String>();
 
     public LectorDelDirectorio(Pipe filtrolector, String nombre ,Pipe outputDelFiltroLector) {
         super(filtrolector,outputDelFiltroLector);
